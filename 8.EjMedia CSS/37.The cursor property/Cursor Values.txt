@@ -1,0 +1,20 @@
+Cursor property values
+
+default
+inherit
+auto
+URL
+crosshair
+pointer
+move
+text
+hand
+no-drop
+alias
+progress
+wait
+grabbing
+copy
+cell
+spinning
+none

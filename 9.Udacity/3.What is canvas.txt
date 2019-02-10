@@ -1,0 +1,1 @@
+canvas is used to draw graphics that include everything from simple lines to complex graphic objects.

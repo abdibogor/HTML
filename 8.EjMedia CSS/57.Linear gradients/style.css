@@ -1,0 +1,12 @@
+#box1 {
+	width: 800px;
+	height:300px;
+	float: left;
+	background: blue;
+	/*background: linear-gradient(to top right, blue, yellow);*/
+	/*background: linear-gradient(30deg, blue, yellow);*/
+	/*background: linear-gradient(45deg, blue, yellow);*/
+	/*background: linear-gradient(green, blue, yellow);*/
+	/*background: linear-gradient(blue, yellow 50%);*/
+	  background: linear-gradient(blue 50%, yellow 50%);	
+}

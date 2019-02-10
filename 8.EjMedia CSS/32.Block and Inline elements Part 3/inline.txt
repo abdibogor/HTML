@@ -1,0 +1,2 @@
+most elements are defined as block level or inline elements.
+Block level elements start from a new line.

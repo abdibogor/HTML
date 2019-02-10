@@ -1,0 +1,28 @@
+block levels elements start from a new line
+h1 until h6
+pre
+p
+table
+div
+form
+ul 
+ol
+li
+
+
+
+inline elements are normally displayed without line breaks.
+a
+span
+strong
+img
+input
+em 
+span
+b
+label 
+legend
+nav
+small
+code
+

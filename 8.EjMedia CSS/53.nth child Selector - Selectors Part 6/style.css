@@ -1,0 +1,33 @@
+/*
+#right p:nth-child(even) { 
+    background-color: orange;
+}
+*/
+
+/*
+#right p:nth-child(odd) { 
+    background-color: orange;
+}
+*/
+
+/*
+#right p:nth-child(3) { 
+    background-color: orange;
+}
+*/
+
+/*
+#right p:nth-child(3n) { 
+    background-color: orange;
+}
+*/
+
+/*
+#right p:nth-child(3n + 4) { 
+    background-color: orange;
+}
+*/
+
+#right p:nth-child(2n + 4) { 
+    background-color: orange;
+}
